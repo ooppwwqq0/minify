@@ -1,4 +1,4 @@
-Python bindings for the Go minifiers for web formats `minify`, see [github.com/tdewolff/minify](https://github.com/tdewolff/minify).
+Python bindings for the Go minifiers for web formats `minify`, see [github.com/ooppwwqq0/minify](https://github.com/tdewolff/minify).
 
 ## Requisites
 Make sure to have [Go](https://go.dev/doc/install) installed.

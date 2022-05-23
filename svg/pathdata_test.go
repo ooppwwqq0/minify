@@ -3,7 +3,7 @@ package svg
 import (
 	"testing"
 
-	"github.com/tdewolff/test"
+	"github.com/ooppwwqq0/test"
 )
 
 func TestPathData(t *testing.T) {

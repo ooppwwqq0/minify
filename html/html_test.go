@@ -11,13 +11,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/tdewolff/minify/v2"
-	"github.com/tdewolff/minify/v2/css"
-	"github.com/tdewolff/minify/v2/js"
-	"github.com/tdewolff/minify/v2/json"
-	"github.com/tdewolff/minify/v2/svg"
-	"github.com/tdewolff/minify/v2/xml"
-	"github.com/tdewolff/test"
+	"github.com/ooppwwqq0/minify/v2"
+	"github.com/ooppwwqq0/minify/v2/css"
+	"github.com/ooppwwqq0/minify/v2/js"
+	"github.com/ooppwwqq0/minify/v2/json"
+	"github.com/ooppwwqq0/minify/v2/svg"
+	"github.com/ooppwwqq0/minify/v2/xml"
+	"github.com/ooppwwqq0/test"
 )
 
 func TestHTML(t *testing.T) {

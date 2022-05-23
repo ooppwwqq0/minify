@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"encoding/base64"
 
-	"github.com/tdewolff/parse/v2"
-	"github.com/tdewolff/parse/v2/strconv"
+	"github.com/ooppwwqq0/parse/v2"
+	"github.com/ooppwwqq0/parse/v2/strconv"
 )
 
 var (

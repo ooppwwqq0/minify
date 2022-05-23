@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/tdewolff/parse/v2/js"
+	"github.com/ooppwwqq0/parse/v2/js"
 )
 
 type renamer struct {

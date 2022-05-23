@@ -1,9 +1,9 @@
 package svg
 
 import (
-	"github.com/tdewolff/parse/v2"
-	"github.com/tdewolff/parse/v2/xml"
-	minifyXML "github.com/tdewolff/minify/v2/xml"
+	"github.com/ooppwwqq0/parse/v2"
+	"github.com/ooppwwqq0/parse/v2/xml"
+	minifyXML "github.com/ooppwwqq0/minify/v2/xml"
 )
 
 // Token is a single token unit with an attribute value (if given) and hash of the data.

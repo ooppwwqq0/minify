@@ -5,9 +5,9 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/tdewolff/minify/v2/minify"
-	"github.com/tdewolff/parse/v2"
-	"github.com/tdewolff/parse/v2/buffer"
+	"github.com/ooppwwqq0/minify/v2/minify"
+	"github.com/ooppwwqq0/parse/v2"
+	"github.com/ooppwwqq0/parse/v2/buffer"
 )
 
 func benchmark(b *testing.B, mediatype string, sample string) {

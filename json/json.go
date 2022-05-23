@@ -4,9 +4,9 @@ package json
 import (
 	"io"
 
-	"github.com/tdewolff/minify/v2"
-	"github.com/tdewolff/parse/v2"
-	"github.com/tdewolff/parse/v2/json"
+	"github.com/ooppwwqq0/minify/v2"
+	"github.com/ooppwwqq0/parse/v2"
+	"github.com/ooppwwqq0/parse/v2/json"
 )
 
 var (

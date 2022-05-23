@@ -6,14 +6,14 @@ import (
 	"regexp"
 	"unsafe"
 
-	"github.com/tdewolff/minify/v2"
-	"github.com/tdewolff/minify/v2/css"
-	"github.com/tdewolff/minify/v2/html"
-	"github.com/tdewolff/minify/v2/js"
-	"github.com/tdewolff/minify/v2/json"
-	"github.com/tdewolff/minify/v2/svg"
-	"github.com/tdewolff/minify/v2/xml"
-	"github.com/tdewolff/parse/v2/buffer"
+	"github.com/ooppwwqq0/minify/v2"
+	"github.com/ooppwwqq0/minify/v2/css"
+	"github.com/ooppwwqq0/minify/v2/html"
+	"github.com/ooppwwqq0/minify/v2/js"
+	"github.com/ooppwwqq0/minify/v2/json"
+	"github.com/ooppwwqq0/minify/v2/svg"
+	"github.com/ooppwwqq0/minify/v2/xml"
+	"github.com/ooppwwqq0/parse/v2/buffer"
 )
 
 var m *minify.M

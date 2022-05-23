@@ -1,7 +1,7 @@
 package xml
 
 import (
-	"github.com/tdewolff/parse/v2/xml"
+	"github.com/ooppwwqq0/parse/v2/xml"
 )
 
 // Token is a single token unit with an attribute value (if given) and hash of the data.

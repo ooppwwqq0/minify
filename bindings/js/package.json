@@ -1,5 +1,5 @@
 {
-  "name": "@tdewolff/minify",
+  "name": "@ooppwwqq0/minify",
   "version": "2.11.1",
   "author": "Taco de Wolff",
   "description": "Go minifiers for web formats",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tdewolff/minify.git"
+    "url": "https://github.com/ooppwwqq0/minify.git"
   },
   "binary": {
     "module_name": "minify",
     "module_path": "./build/Release",
-    "host": "https://github.com/tdewolff/minify/releases/download/",
+    "host": "https://github.com/ooppwwqq0/minify/releases/download/",
     "remote_path": "{version}"
   },
   "keywords": [

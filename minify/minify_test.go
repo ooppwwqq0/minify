@@ -3,7 +3,7 @@ package minify
 import (
 	"testing"
 
-	"github.com/tdewolff/test"
+	"github.com/ooppwwqq0/test"
 )
 
 func TestMinify(t *testing.T) {

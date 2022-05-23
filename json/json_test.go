@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/tdewolff/minify/v2"
-	"github.com/tdewolff/test"
+	"github.com/ooppwwqq0/minify/v2"
+	"github.com/ooppwwqq0/test"
 )
 
 func TestJSON(t *testing.T) {

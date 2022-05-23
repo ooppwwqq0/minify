@@ -3,9 +3,9 @@ package xml
 import (
 	"testing"
 
-	"github.com/tdewolff/parse/v2"
-	"github.com/tdewolff/parse/v2/xml"
-	"github.com/tdewolff/test"
+	"github.com/ooppwwqq0/parse/v2"
+	"github.com/ooppwwqq0/parse/v2/xml"
+	"github.com/ooppwwqq0/test"
 )
 
 func TestBuffer(t *testing.T) {

@@ -6,9 +6,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/tdewolff/minify/v2"
-	"github.com/tdewolff/parse/v2/css"
-	"github.com/tdewolff/test"
+	"github.com/ooppwwqq0/minify/v2"
+	"github.com/ooppwwqq0/parse/v2/css"
+	"github.com/ooppwwqq0/test"
 )
 
 func TestCSS(t *testing.T) {

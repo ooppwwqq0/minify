@@ -1,8 +1,8 @@
 # Minify
 
-**[Download binaries](https://github.com/tdewolff/minify/releases) for Windows, Linux and macOS**
+**[Download binaries](https://github.com/ooppwwqq0/minify/releases) for Windows, Linux and macOS**
 
-Minify is a CLI implementation of the minify [library package](https://github.com/tdewolff/minify).
+Minify is a CLI implementation of the minify [library package](https://github.com/ooppwwqq0/minify).
 
 ## Installation
 Make sure you have [Go](http://golang.org/) and [Git](http://git-scm.com/) installed.
@@ -11,7 +11,7 @@ Run the following command
 
     mkdir $HOME/src
     cd $HOME/src
-    git clone https://github.com/tdewolff/minify.git
+    git clone https://github.com/ooppwwqq0/minify.git
     cd minify
     make install
 
@@ -22,7 +22,7 @@ If you do not have `make`, instead run the following lines to install `minify` a
     go install ./cmd/minify
     source minify_bash_tab_completion
 
-Optionally, you can run `go install github.com/tdewolff/minify/cmd/minify@latest` to install the latest version.
+Optionally, you can run `go install github.com/ooppwwqq0/minify/cmd/minify@latest` to install the latest version.
 
 ### Arch Linux
 Using `yay`:
@@ -42,10 +42,10 @@ pkg install minify
 Using Homebrew:
 
 ```
-brew install tdewolff/tap/minify
+brew install ooppwwqq0/tap/minify
 ```
 
-[Brew tap](https://github.com/tdewolff/homebrew-tap/)
+[Brew tap](https://github.com/ooppwwqq0/homebrew-tap/)
 
 ### Ubuntu
 Update the package index:
@@ -63,13 +63,13 @@ sudo apt-get install minify
 Pull the image:
 
 ```
-docker pull tdewolff/minify
+docker pull ooppwwqq0/minify
 ```
 
 and run the image, for example in interactive mode:
 
 ```
-docker run -i tdewolff/minify
+docker run -i ooppwwqq0/minify
 echo "(function(){ if (a == false) { return 0; } else { return 1; } })();" | minify --type js
 ```
 

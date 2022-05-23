@@ -6,7 +6,7 @@ package main
 import (
 	"testing"
 
-	"github.com/tdewolff/test"
+	"github.com/ooppwwqq0/test"
 )
 
 func TestIsDir_Windows(t *testing.T) {

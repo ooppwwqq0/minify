@@ -1,7 +1,7 @@
 package js
 
 import (
-	"github.com/tdewolff/parse/v2/js"
+	"github.com/ooppwwqq0/parse/v2/js"
 )
 
 func optimizeStmt(i js.IStmt) js.IStmt {

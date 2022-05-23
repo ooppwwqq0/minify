@@ -21,17 +21,17 @@ def get_version():
     with  open('go.mod') as f:
         for line in f:
             line = line.strip()
-            if line.startswith('github.com/tdewolff/minify/v2'):
+            if line.startswith('github.com/ooppwwqq0/minify/v2'):
                 return line.split()[1][1:]
     raise CompileError('Version retrieval failed')
 
 setup(
-    name="tdewolff-minify",
+    name="ooppwwqq0-minify",
     version=get_version(),
     description="Go minifiers for web formats",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/tdewolff/minify",
+    url="https://github.com/ooppwwqq0/minify",
     author="Taco de Wolff",
     author_email="tacodewolff@gmail.com",
     license="MIT",
